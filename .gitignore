@@ -1,9 +1,8 @@
 # Other cached
 __marimo__/
 .virtual_documents/
+nb-*.py
 
-# Notebook Checkpoints
-.ipynb_checkpoints/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
